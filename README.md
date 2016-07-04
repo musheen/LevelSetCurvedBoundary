@@ -1,2 +1,3 @@
-# marchingCubesFortran
-Marching cubes algorithm in Fortran.
+# levelSetCurvedBoudary
+
+This code reconstructs a high-order mesh from a first-order STL file. 
